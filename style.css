@@ -1,0 +1,65 @@
+
+.green-color{
+color:darkgray;
+}
+body{
+font-family:sans-serif;
+color:black;
+}
+.half-width{
+width:50% ;
+float:left ;
+}
+.side-imag{
+width:50% ;
+padding-left: 25;
+}
+.zisun-btn{
+color:black;
+background-color:violet ;
+padding:53px 73px 53px 73px ;
+border-radius:20px;
+text-decoration: none;
+font-size:80;
+}
+h1{
+font-size=8.5em;
+}
+.container{
+padding: 5%;
+display: inline-block;
+line-height:1 ;
+
+
+}
+.experience{
+padding: 30px ;
+margin: 60px;
+background: lightcyan;
+border-radius:20;
+font-size:100;
+
+
+}
+.item-experience {
+paddeing:20px;
+border-left:1px solid red 1;
+}
+.paragraph{
+font-size:80;
+line-height:1 ;
+
+}
+.h1{
+font-size:120;
+line-height:1 ;
+}
+.h6{
+font-size:110;
+line-height:1 ;
+}
+
+.width{
+width:810% ;
+}
+
